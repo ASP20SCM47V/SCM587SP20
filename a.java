@@ -10,3 +10,4 @@ ASP20SCM63M
 SSP20SCM53A
 SSP20SCM62A
 Updating in github
+Checking commit msg
